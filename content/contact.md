@@ -34,7 +34,7 @@ title: Contact
 
   <button
     type="submit"
-    style="padding: 12px 24px; background-color:rgba(79, 70, 229, 0.7); color: #ffffff; font-weight: 600; border-radius: 6px; border: none; cursor: pointer; display: block; width: 100%;">
+    style="padding: 12px 24px; background-color:rgba(229, 70, 221, 0.7); color: #ffffff; font-weight: 600; border-radius: 6px; border: none; cursor: pointer; display: block; width: 100%;">
     Send Message
   </button>
 </form>
