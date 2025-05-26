@@ -31,6 +31,10 @@ disableTextInHeader = false
 # giteaDefaultServer = "https://git.fsfe.org"
 # forgejoDefaultServer = "https://v8.next.forgejo.org"
 
+title = 'Sheffield Pinknic'
+description = 'Sheffield Pinknic is an LGBTQ+ event run by LGBT Sheffield'
+images = ['img/feature.webp']
+
 [header]
   layout = "fixed-fill" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
 
