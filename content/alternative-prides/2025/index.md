@@ -3,7 +3,7 @@ title: Alternative Prides To Pinknic - 2025
 description: Alternative pride events running in 2025.
 layout: simple
 featureImage: "./feature.webp"
-summary: Find alternative Pride events to Pinknic while it isn't running this year, including SAYiT Youth Pride, Kelham Pride, and Sheffield Radical Pride.
+summary: Find alternative Pride events to Pinknic while it isn\'t running this year, including SAYiT Youth Pride, Kelham Pride, and Sheffield Radical Pride.
 date: 2025-05-27
 lastMod: 2025-05-27
 ---
