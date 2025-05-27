@@ -1,5 +1,9 @@
-Sheffield Pinknic is an event run by LGBT Sheffield, currently it is not known if it will run in the summer of 2025. This domain was left to be unregistered so I bought it up and am hosting this as a placeholder website. I intend to either get the domain back to the organisers or keep hold of it and turn this website into a blog about the history of the event so we don't loose the history.
+Sheffield Pinknic was a vibrant annual LGBT event in Sheffield, launched in 2013, with its last confirmed run in 2024. All available information suggests it is **not running in 2025** but I've been unable to confirm this with the organisers of the event.
 
-If you are one of the organisers and would like this domain back or would like to get involved in creating a replacement to go here please reach out to me. I would love to interview people on their experiences with pinknic, how it was to run the event and what went into it each year.
+I acquired pinknic.co.uk when it became unregistered, aiming to either return it to the original organisers or transform this site into a comprehensive archive of Pinknic's history if there was nobody left to take it back. I believe it's important to preserve the legacy of what was once Sheffield's largest yearly LGBT event and keep this site in place in case it should return.
+
+Are you an organiser? I'd be delighted to return the domain to you and offer any assistance to help the event continue. Please [reach out](/contact).
+
+In the meantime, I'm building a public archive of Pinknic information. If you have photos, stories, or anything to contribute, please [get in touch](/contact)!
 
 Hosted By [Canopy Falls](https://canopyfalls.com)
