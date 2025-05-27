@@ -4,7 +4,17 @@ description: Alternative pride events running in 2025.
 layout: simple
 ---
 
-> **Important Notice:** This website is being run by myself, [Canopy Falls](https://canopyfalls.com), while the Pinknic organisers have left the domain to be unregistered. I have attempted to contact the organisers multiple times but have not had any reply from them. This is not an endorsement of the prides listed below by myself and is definitely not an endorsement by the original organisers of Pinknic who have had no involvement. The goal is just to provide information about other events for those who may be missing Pinknic this year.
+**Important Notice:** This website is being run by myself, [Canopy Falls](https://canopyfalls.com), while the Pinknic organisers have left the domain to be unregistered. I have attempted to contact the organisers multiple times but have not had any reply from them. This is not an endorsement of the prides listed below by myself and is definitely not an endorsement by the original organisers of Pinknic who have had no involvement. The goal is just to provide information about other events for those who may be missing Pinknic this year.
+
+## SAYiT Youth Pride | 14th June
+
+I can't find much information about this event aside from this short but of information on SAYiT's website:
+
+> There will be young people selling their artwork, fun activities, and charities with stalls. The event will finish with a question-and-answer panel of inspiring queer people!
+> Showroom Cinema next door will be showing To Wong Foo at 17:45 as part of their Pride season programming.
+
+[Event Page](https://www.sayit.org.uk/event-details/youth-pride-2025) | [SAYiT Website](https://www.sayit.org.uk/) | [Instagram](https://www.instagram.com/sayitsheffield/) | [Facebook](https://www.facebook.com/SAYiT1177477/) | [Twitter/X](https://twitter.com/SAYiTSheffield) | [LinkedIn](https://www.linkedin.com/company/sayit-sheena-amos-youth-trust) | [Youtube](https://www.youtube.com/@sayitsheffield)
+
 
 ## Kelham Pride | 21st June
 
