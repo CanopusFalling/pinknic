@@ -3,6 +3,8 @@ layout: simple
 title: Contact
 ---
 
+> **Important Notice:** This contact form goes to myself, [Canopy Falls](https://canopyfalls.com). I am not associated with the organisers of Pinknic. I am just holding onto the domain name as it was left to be deregistered.
+
 <form
   action="https://formspree.io/f/mvgajdlz"
   method="POST"
