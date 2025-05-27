@@ -1,7 +1,11 @@
 ---
-title: Alternative Prides To Pinknic 2025
+title: Alternative Prides To Pinknic - 2025
 description: Alternative pride events running in 2025.
 layout: simple
+featureImage: "./feature.webp"
+summary: Find alternative Pride events to Pinknic while it isn't running this year, including SAYiT Youth Pride, Kelham Pride, and Sheffield Radical Pride.
+date: 2025-05-27
+lastMod: 2025-05-27
 ---
 
 **Important Notice:** This website is being run by myself, [Canopy Falls](https://canopyfalls.com), while the Pinknic organisers have left the domain to be unregistered. I have attempted to contact the organisers multiple times but have not had any reply from them. This is not an endorsement of the prides listed below by myself and is definitely not an endorsement by the original organisers of Pinknic who have had no involvement. The goal is just to provide information about other events for those who may be missing Pinknic this year.

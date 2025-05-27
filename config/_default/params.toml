@@ -14,7 +14,7 @@ enableCodeCopy = false
 
 replyByEmail = false
 
-# mainSections = ["section1", "section2"]
+# mainSections = ["Archive", "section2"]
 # robots = ""
 
 disableImageOptimization = false
@@ -48,10 +48,10 @@ images = ['img/feature.webp']
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
   homepageImage = "/img/feature.webp" # used in: hero, and card
-  showRecent = false
+  showRecent = true
   showRecentItems = 5
   showMoreLink = false
-  showMoreLinkDest = "/posts/"
+  showMoreLinkDest = "/alternative-prides/2025"
   cardView = false
   cardViewScreenWidth = false
   layoutBackgroundBlur = false # only used when layout equals background
@@ -93,7 +93,7 @@ images = ['img/feature.webp']
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = false
-  showSummary = false
+  showSummary = true
   showViews = false
   showLikes = false
   showTableOfContents = false
