@@ -40,19 +40,19 @@ images = ['img/feature.webp']
 
 [footer]
   showMenu = true
-  showCopyright = false
+  showCopyright = true
   showThemeAttribution = false
-  showAppearanceSwitcher = false
-  showScrollToTop = true
+  showAppearanceSwitcher = true
+  showScrollToTop = false
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
   homepageImage = "/img/feature.webp" # used in: hero, and card
   showRecent = true
   showRecentItems = 5
-  showMoreLink = false
-  showMoreLinkDest = "/alternative-prides/2025"
-  cardView = false
+  showMoreLink = true
+  showMoreLinkDest = "/archive/"
+  cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = false # only used when layout equals background
 
