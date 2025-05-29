@@ -4,6 +4,7 @@ description: How to contribute and get involved with this archive of Pinknic.
 date: 2025-05-29
 lastmod: 2025-05-29
 layout: simple
+featureImage: ./feature.webp"
 ---
 
 The Pinknic Archive is a not-for-profit passion project dedicated to preserving the rich history of Pinknic. It's an open, collaborative effort, and we welcome contributions from anyone who shares our goal. Your help ensures this unique piece of history remains accessible for years to come.
