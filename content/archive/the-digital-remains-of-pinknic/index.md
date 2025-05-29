@@ -3,7 +3,6 @@ title: The Digital Remains of Pinknic Website
 description: Explore what remains of the Pinknic website from the internet archive to articles about the event.
 date: 2025-05-29
 lastmod: 2025-05-29
-draft: true
 showTableOfContents: true
 ---
 
