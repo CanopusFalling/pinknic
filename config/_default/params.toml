@@ -14,7 +14,7 @@ enableCodeCopy = false
 
 replyByEmail = false
 
-# mainSections = ["Archive", "section2"]
+mainSections = ["archive", "alternative-prides"]
 # robots = ""
 
 disableImageOptimization = false
