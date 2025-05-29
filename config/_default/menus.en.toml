@@ -79,7 +79,7 @@ name = "License"
 pageRef = "license"
 weight = 10
 
-# [[footer]]
-#   name = "Categories"
-#   pageRef = "categories"
-#   weight = 20
+[[footer]]
+name = "Contributing"
+pageRef = "contributing"
+weight = 20
