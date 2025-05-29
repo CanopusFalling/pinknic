@@ -4,6 +4,7 @@ description: Explore what remains of the Pinknic website from the internet archi
 date: 2025-05-29
 lastmod: 2025-05-29
 showTableOfContents: true
+summary: As you explore this section, I\'ll be sharing what remains of Pinknic\'s website, striving to provide as much context as possible for each item.
 ---
 
 Welcome! As you explore this section, I'll be sharing what remains of Pinknic's website, striving to provide as much context as possible for each item.
