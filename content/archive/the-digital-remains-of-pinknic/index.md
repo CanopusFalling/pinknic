@@ -85,9 +85,17 @@ Unfortunately a lot of the images from the website are quite low quality and it 
 
 There are a few photos through the website of the organisers at Pinknic.
 
-![Photo of two individuals at Pinknic with the event in the background. The person on the left has an incredibly colourful outfit and is holding a pink donation bucket for LGBT Sheffield. The individual on the right has short white hair and is wearing a pink high-visibility jacket.](./images/organisers-fundraising-at-pinknic.jpg)
+![Photo of two individuals at Pinknic with the event in the background. The person on the left has an incredibly colourful outfit and is holding a pink donation bucket for LGBT Sheffield. The individual on the right has short white hair and is wearing a pink high-visibility jacket.](./images/organisers/organisers-fundraising-at-pinknic.jpg)
 
 I was not able to identify the individual on the left in this photo but the person on the right in the pink high-visibility jacket seems to be founder Kath Housley.
+
+![An individual in a green high vis jacket and pink trousers standing in front of a white tent holding a clipboard and a donation bucket.](./images/organisers/volenteer-at-pinknic-banner-in-background.jpg)
+
+It is not known which year of pride this photo came from but it does confirm that at one point Pinknic was affiliated with The University of Sheffield, Sheffield Hallam University and GMB Union based on the logos on the banner. There is at least one more logo but unfortunately I was not able to Identify it.
+
+### Stalls
+
+There are some low quality photos of different stalls and their respective stall holders at Pinknic. I was unfortunately unable to identify many of them.
 
 ### Other Logos
 
