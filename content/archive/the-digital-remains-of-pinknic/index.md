@@ -1,13 +1,13 @@
 ---
-title: The Digital Remains of Pinknic
-description: Explore what remains of Pinknic from the internet archive to articles about the event.
+title: The Digital Remains of Pinknic Website
+description: Explore what remains of the Pinknic website from the internet archive to articles about the event.
 date: 2025-05-29
 lastmod: 2025-05-29
 draft: true
 showTableOfContents: true
 ---
 
-Welcome! As you explore this section, I'll be sharing what remains of Pinknic's online presence, striving to provide as much context as possible for each item.
+Welcome! As you explore this section, I'll be sharing what remains of Pinknic's website, striving to provide as much context as possible for each item.
 
 ## Important Notice Regarding Content
 
@@ -25,7 +25,7 @@ You can explore the records of [pinknic.co.uk on the wayback machine](https://we
 
 ### Homepage
 
-Unfortunately for us it seems the homepage, [www.pinknic.co.uk](https://www.pinknic.co.uk), was not able to be archived by the wayback machine though the wayback machine does tell us that the first attempted snapshot of the domain was April 21st 2017 which appears to be roughly when the website was first created though according to [domaintools.com](https://domainreport.domaintools.com/pinknic.co.uk) the domain name was first recorded as being registered on June 21st 2013. I did not want to spend 49$ to access the full report so unfortunately cannot provide more information than that.
+Unfortunately for us it seems the homepage, [www.pinknic.co.uk](https://www.pinknic.co.uk), was not able to be archived by the wayback machine though the wayback machine does tell us that the first attempted snapshot of the domain was April 21st 2017. However according to [domaintools.com](https://domainreport.domaintools.com/pinknic.co.uk) the domain name was first recorded as being registered on June 21st 2013 so may have existed before that. I did not want to spend 49$ to access the full report so unfortunately cannot provide more information than that.
 
 ### Documents
 
@@ -75,13 +75,13 @@ Finally there is an FAQ section that answers a lot of questions relevant to perf
 
 [Download](/archive/the-digital-remains-of-pinknic/documents/pinknic-a-p-2018-.docx) | [PDF](/archive/the-digital-remains-of-pinknic/documents/pinknic-a-p-2018-.pdf) | [Wayback Machine](https://web.archive.org/web/20220512155542*/http://pinknic.co.uk/assets/pinknic-a-p-2018-.docx)
 
-## Images
+### Images
 
 Unfortunately a lot of the images from the website are quite low quality and it is a struggle to identify individuals in the photos. Especially annoying is I was unable to identify stall holders and performers. I have done what I can but if you are able to identify a performer please [reach out](/contact).
 
 *None of the photos are public domain, they are all presumably copyright of LGBT Sheffield though the exact copyright holder is unknown.*
 
-### Organisers
+#### Organisers
 
 There are a few photos through the website of the organisers at Pinknic.
 
@@ -93,13 +93,51 @@ I was not able to identify the individual on the left in this photo but the pers
 
 It is not known which year of pride this photo came from but it does confirm that at one point Pinknic was affiliated with The University of Sheffield, Sheffield Hallam University and GMB Union based on the logos on the banner. There is at least one more logo but unfortunately I was not able to Identify it.
 
-### Stalls
+#### Stalls
 
-There are some low quality photos of different stalls and their respective stall holders at Pinknic. I was unfortunately unable to identify many of them.
+There are some low quality photos of different stalls and their respective stall holders at Pinknic. I was unfortunately unable to identify many of them. I was however able to identify the below image as [The University of Sheffield LGBT+ Staff Network](https://www.sheffield.ac.uk/inclusion/staff-networks#lgbt+-staff-network).
 
-### Other Logos
+![Photo of three people hosting The University of Sheffield LGBT+ Staff Network stall at Pinknic.](./images/stalls/university-of-sheffield-staff-network-stall.jpg)
 
-These logos were presumably featured on the website to show affiliation with different organisations, I've not included the specific files as they're other organisation's logos and you can find them easily online.
+![](./images/stalls/stall-at-pinknic.jpg)
+![](./images/stalls/stall-unknown-org-yellow-tent-2.jpg)
+![](./images/stalls/stall-unknown-org-yellow-tent.jpg)
+
+#### Performers
+
+Again these photos are very low resolution, I was unable to identify any of the performers.
+
+![](./images/performers/band-performers-2.jpg)
+![](./images/performers/band-performers.jpg)
+![](./images/performers/chello-and-singer.jpg)
+![](./images/performers/dungarees-performer-gitaur.jpg)
+![](./images/performers/light-blue-suit-performer.jpg)
+![](./images/performers/red-gitaur-performer.jpg)
+
+#### Misc Event Photos
+
+Photos of just the event generally, I could not identify anyone in any of the photos or the years these photos are from.
+
+![](./images/event/crowd-at-pinknic.jpg)
+![](./images/event/drag-artist-with-someone-at-pinknic.jpg)
+![](./images/event/view-of-pinknic.jpg)
+
+#### Logos
+
+![Pinknic Logo](./images/logos/pinknic-logo.png)
+![LGBT Sheffield Logo](./images/logos/lgbt-sheffield-logo.jpg)
+
+There were other logos for other organisations not related to pinknic, probably due to affiliation with Pinknic. I've not included the images in the archive but they were the logos for the following organisations.
 
 - [GMB Union](https://www.gmb.org.uk/)
 - [The University of Sheffield](https://www.sheffield.ac.uk/)
+
+## Summary of Findings
+
+Exploring the digital remnants of Pinknic has provided valuable insights into the nature and operation of this community event. While the official homepage (pinknic.co.uk) was not successfully archived by the Wayback Machine, other crucial documents and images offer a glimpse into its legacy.
+
+The Internet Archive preserved two key documents: a "How would you like to Volunteer for LGBT Sheffield?" guide and an "ACTS & PERFORMERS APPLICATION FORM 2017" (which was modified for 2018). These documents reveal that Pinknic was a not-for-profit community event, reliant on donations, fundraising, and grant applications. Performers were generally not paid fees, but production costs were covered, and travel contributions were sometimes available. The application form also highlights the event's commitment to showcasing diverse entertainment and acting as a "stepping stone for emerging artists." Notably, Pinknic aimed for a substantial attendance, anticipating "in excess of 12,000 people" for its "6th year" in what appears to be 2017/2018, underscoring its significant scale. We also learned that Pinknic was affiliated with LGBT Sheffield, and potentially collaborated with organisations such as The University of Sheffield, Sheffield Hallam University, and the GMB Union.
+
+Although many of the archived images are low quality, they offer visual confirmation of the event's activities, including fundraising efforts by organizers (like Kath Housley), various stalls (such as The University of Sheffield LGBT+ Staff Network), and live performances. The difficulty in identifying specific individuals or years in many photos underscores the challenge of reconstructing historical details from limited digital archives.
+
+In conclusion, the digital remains paint a picture of Pinknic as a large-scale, volunteer-driven LGBTQ+ community celebration in Sheffield, focused on providing accessible entertainment and fostering local talent, largely sustained by community effort and a non-profit model.
