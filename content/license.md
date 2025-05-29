@@ -3,6 +3,7 @@ title: License
 description: Information about the licencing of this website.
 date: 2025-05-29
 lastmod: 2025-05-29
+layout: simple
 ---
 
 This website is released under [The Unlicense](https://unlicense.org) which effectively releases all copyright and provides the website as public domain. You are free to do pretty much anything you like with the website. The goal is to make sure the information provided can be archived by anyone so we don't risk losing the history of Pinknic.
