@@ -22,7 +22,7 @@ While most of the content is under [The Unlicense](https://unlicense.org) there 
 
 This website is a not-for-profit endeavor, created and maintained purely as an archival project to preserve the history of Pinknic by [Canopy Falls](https://canopyfalls.com/). It generates no revenue and serves solely as a public resource.
 
-I have made every effort to respect intellectual property rights. If you are a copyright holder of any content featured on this website (including but not limited to text, images, or multimedia) and wish for it to be removed, or if you are an individual featured in an image and would prefer it not to be displayed, please do not hesitate to [contact us](/contact).
+I have made every effort to respect intellectual property rights. If you are a copyright holder of any content featured on this website (including but not limited to text, images, or multimedia) and wish for it to be removed, or if you are an individual featured in an image and would prefer it not to be displayed, please do not hesitate to [get in touch](/contact).
 
 Upon receiving a request, I will promptly review the matter and take appropriate action, including the removal of the specified content, as quickly as possible. I hope any copyright holders will appreciate the not-for-profit nature of this website and the goal of preserving the history of the event.
 
