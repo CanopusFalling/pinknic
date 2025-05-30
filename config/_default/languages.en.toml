@@ -9,8 +9,8 @@ displayName = "EN"
 isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
-# logo = "img/logo.png"
-# secondaryLogo = "img/secondary-logo.png"
+logo = "/branding/icon-logo-64.webp"
+#secondaryLogo = "/branding/icon-logo-64.webp"
 description = "Sheffield's Largest LGBTQ+ Event"
 copyright = """
 This website's content is released into the Public Domain under the Unlicense. 
