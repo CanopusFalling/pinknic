@@ -11,25 +11,30 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
+name = "Find Pinknic Elsewhere"
+pageRef = "links"
+weight = 10
+
+[[main]]
 name = "Alternative Prides"
 pageRef = "alternative-prides"
-weight = 10
+weight = 20
 
 [[main]]
 name = "2025"
 parent = "Alternative Prides"
 pageRef = "alternative-prides/2025"
-weight = 20
+weight = 30
 
 [[main]]
 name = "Archive"
 pageRef = "archive"
-weight = 20
+weight = 40
 
 [[main]]
 name = "Contact"
 pageRef = "contact"
-weight = 30
+weight = 50
 
 #[[main]]
 #  name = "Parent"
@@ -83,3 +88,13 @@ weight = 10
 name = "Contributing"
 pageRef = "contributing"
 weight = 20
+
+[[footer]]
+name = "Privacy Policy"
+pageRef = "privacy"
+weight = 30
+
+[[footer]]
+name = "Contact"
+pageRef = "contact"
+weight = 40
