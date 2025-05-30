@@ -9,7 +9,7 @@ colorScheme = "princess"
 defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = false
 
-enableSearch = false
+enableSearch = true
 enableCodeCopy = false
 
 replyByEmail = false
