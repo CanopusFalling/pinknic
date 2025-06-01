@@ -10,7 +10,7 @@ layout: simple
 
 ## Pinknic Social Media
 
-[Facebook](https://www.facebook.com/pinknicsheffield/) | [X/Twitter](https://x.com/pinknic_sheff)
+[Facebook](https://www.facebook.com/pinknicsheffield/) | [X/Twitter](https://x.com/pinknic_sheff) | [Flickr](https://www.flickr.com/photos/pinknicsheffield/)
 
 ## LGBTQ Sheffield
 
