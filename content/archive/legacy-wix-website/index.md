@@ -9,4 +9,10 @@ authors: ["canopyfalls"]
 draft: true
 ---
 
-[Legacy Website Link](https://hmpaterson.wixsite.com/sheffieldpinknic)
+## Note About Archiving
+
+I am attempting to get in touch with the owner of this website to see if we can host a copy. In the meantime you can [visit the website](https://hmpaterson.wixsite.com/sheffieldpinknic) if you wish to browse it while it still remains up. There is also a backup on the [Internet Archive](https://web.archive.org/web/20250602185914/https://hmpaterson.wixsite.com/sheffieldpinknic) in case the original site goes down.
+
+## Overview
+
+The website seems to have been made sometime around the 2013 Pinknic and advertises the 2014 Pinknic listing some of the acts but it seems like the information on the website for Pinknic 2014 was never finalised. It seems like shortly after it was replaced by the website at [www.pinknic.co.uk](https://pinknic.co.uk).
