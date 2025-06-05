@@ -4,7 +4,7 @@ description: Alternative pride events running in 2025.
 featureImage: "./feature.webp"
 summary: Find alternative Pride events to Pinknic while it isn\'t running this year, including SAYiT Youth Pride, Kelham Pride, and Sheffield Radical Pride.
 date: 2025-05-27
-lastMod: 2025-05-29
+lastMod: 2025-06-05
 authors: ["canopyfalls"]
 ---
 
@@ -21,6 +21,8 @@ I can't find much information about this event aside from this short but of info
 
 
 ## Kelham Pride | 21st June
+
+> **WARNING:** This event has accepted sponsorship from The University of Sheffield who currently stand accused of complicity in Genocide. I cannot in good faith recommend you attend this event; both for solidarity with our queer siblings and for individual safety. If the event does not have the backs of those undergoing a genocide they cannot be considered a safe event for LGBTQ+ individuals. The info about the event will remain here, you can make your own decisions but this disclaimer is important.
 
 This event is a community-led celebration in the Kelham Island and Neepsend neighborhood, aiming to celebrate, support, and champion the LGBTQ+ community and its allies. It typically includes a parade, street party, live entertainment, and various activities across multiple venues, focusing on creating inclusive and respectful spaces. It is a not-for-profit event often involving local businesses and community groups.
 
